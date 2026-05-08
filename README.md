@@ -74,11 +74,15 @@ vector-search-engine/
 
 └── .gitignore
 
+```
 
 
 
+\---
 
-Objective
+
+
+\## Objective
 
 
 
@@ -90,11 +94,15 @@ The project explores production-oriented vector search concepts including embedd
 
 
 
-Author
+\---
 
 
 
-Felix Brillant
+\## Author
+
+
+
+Felix Brillant  
 
 AI / Cloud Data Engineering
 
