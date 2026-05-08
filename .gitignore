@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+qdrant_storage/
+*.csv
+*.json
+*.pkl
